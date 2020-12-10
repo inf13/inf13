@@ -1,5 +1,5 @@
 ### Hello 👋 
-I'm Oleg, :smiley_cat: .Net developer from Belarus. I'm working working at Coherent Solutions :office:
+I'm Oleg, :smiley_cat: .Net developer from Belarus. I'm working at Coherent Solutions :office:
 
 
 <!--
