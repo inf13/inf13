@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello 👋
+#### I'm Oleg, the .Net developer :smiley_cat: 
+### :office: Coherent Solutions
+
 
 <!--
 **inf13/inf13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
