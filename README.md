@@ -1,5 +1,5 @@
 ### Hello 👋 
-I'm Oleg, :smiley_cat: .Net developer from Latvia. I'm working at If Insurance :office:
+I'm Aleh, :smiley_cat: .Net developer from Latvia. I'm working at If Insurance :office:
 
 
 <!--
